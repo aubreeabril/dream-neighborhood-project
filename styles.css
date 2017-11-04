@@ -1,4 +1,21 @@
+<<<<<<< HEAD
 .header {
 	background-image: url('https://github.com/aubreeabril/dream-neighborhood-project/blob/master/img%20files/backgroundhouse.jpg');
 	width:100%;
 }
+=======
+//samples
+
+h1 {
+	font-size: 100px;
+	font-family: 'Aref Ruqaa', serif;
+	text-align: center;
+}
+
+li {
+	list-style-type: none;
+	float:left;
+	margin-right: 20px;
+	text-align: center;
+}
+>>>>>>> da78fe5c380aa23b2752fa9efe3ffa952587057e
