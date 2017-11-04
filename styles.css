@@ -1,0 +1,14 @@
+//samples
+
+h1 {
+	font-size: 100px;
+	font-family: 'Aref Ruqaa', serif;
+	text-align: center;
+}
+
+li {
+	list-style-type: none;
+	float:left;
+	margin-right: 20px;
+	text-align: center;
+}
